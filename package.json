@@ -1,8 +1,8 @@
 {
-  "name": "listen-to-events",
+  "name": "toad-jim",
   "version": "1.0.0",
   "description": "",
-  "main": "listen.js",
+  "main": "node src/listen.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
